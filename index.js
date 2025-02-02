@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
   const response = {
     email: "yakubadekolaojo059@gmail.com", 
     current_datetime: new Date().toISOString(), 
-    github_url: "https://github.com/yadekola/HNG-12-API" 
+    github_url: "https://github.com/yadekola/HNG-12-yakola-API" 
   };
 
   res.status(200).json(response);
