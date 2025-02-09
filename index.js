@@ -9,7 +9,7 @@ app.use(cors());
 // Define the GET endpoint
 app.get('/', (req, res) => {
   const response = {
-    email: "yakubadekolaojo059@gmail.com", 
+    email: "adekolaayinde255@gmail.com", 
     current_datetime: new Date().toISOString(), 
     github_url: "https://github.com/yadekola/HNG-12-yakola-API" 
   };
