@@ -30,7 +30,7 @@ This is a simple public API developed for the HNG12 Stage 0 task. It returns bas
 - **Response Format:**
   ```json
   {
-    "email": "yakubadekolaojo059@gmail.com",
+    "email": "adekolaayinde255@gmail.com",
     "current_datetime": "2025-02-02T13:17:45.466Z",
     "github_url": "https://github.com/yadekola/HNG-12-yakola-API"
   }
